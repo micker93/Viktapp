@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "605354134727",
+    "firebase_url": "https://viktapp.firebaseio.com",
+    "project_id": "viktapp",
+    "storage_bucket": "viktapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605354134727:android:ebdc553b2fe935c8",
+        "android_client_info": {
+          "package_name": "com.example.riiss.viktapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605354134727-ta5utv1rn0c905hnkrbqlivqpdosdsnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riiss.viktapp",
+            "certificate_hash": "3129e3082a006bc1c28bb55a825ba51a7f32564a"
+          }
+        },
+        {
+          "client_id": "605354134727-ef70thm4h3gtboopoeorkfn68qkapmi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPl4neJO_e6RXYN6x3lCXvvBqvAcYEq2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605354134727-ef70thm4h3gtboopoeorkfn68qkapmi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
